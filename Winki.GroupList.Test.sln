@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Winki.SingleLinkedList.Test", "Winki.SingleLinkedList.Test\Winki.SingleLinkedList.Test.csproj", "{03EC369D-7EFC-4CCD-A91E-CC4237B7ED31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03EC369D-7EFC-4CCD-A91E-CC4237B7ED31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03EC369D-7EFC-4CCD-A91E-CC4237B7ED31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03EC369D-7EFC-4CCD-A91E-CC4237B7ED31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03EC369D-7EFC-4CCD-A91E-CC4237B7ED31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92AE897B-504B-48F5-BD4B-964C6D340D8F}
+	EndGlobalSection
+EndGlobal
